@@ -18,7 +18,7 @@ A Zen Browser mod that transforms the bookmarks sidebar into a floating panel wi
 
 ## Usage
 
-- Open bookmarks sidebar (Ctrl+Shift+B or View → Sidebar → Bookmarks)
+- Open bookmarks sidebar (Ctrl+B or View → Sidebar → Bookmarks)
 - The bookmarks panel will slide in as a floating overlay
 - Adjust position (left/right) in mod preferences
 
